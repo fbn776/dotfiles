@@ -35,6 +35,7 @@
 - tmux-sidebar (Needs to install `tree`)
 	- Use `Prefix` + `TAB` to activate the tree mode
 	- Use `Prefix` + `Backspace` to activate in focus mode
+- tmux resurrect
 
 ##### TODO
 
