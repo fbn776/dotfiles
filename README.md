@@ -9,3 +9,9 @@ Be warned if you try to copy these things... It might not work out of the box.
 
 ## Installation
 
+Run the script to install
+
+## Porgrams
+
+- fpp: https://github.com/facebook/PathPicker?tab=readme-ov-file#linux
+
