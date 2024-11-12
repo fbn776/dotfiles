@@ -14,4 +14,8 @@ Run the script to install
 ## Porgrams
 
 - fpp: https://github.com/facebook/PathPicker?tab=readme-ov-file#linux
+- xclip: sudo apt install xclip
 
+## Aliases
+
+- `copy` - xclip -sel clip
